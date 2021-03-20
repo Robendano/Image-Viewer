@@ -1,0 +1,9 @@
+.button {
+-fx-background-color: #FAFAD2;
+-fx-border-color: #000000;
+}
+
+.ImageView {
+    -fx-background-color: #C0C0C0;
+
+}
