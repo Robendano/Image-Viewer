@@ -3,3 +3,6 @@ Midterm Project bekturov aidar and is sole purpose is to change image. it contai
 Using java sdk 11 and made on Intellij Idea community edition
 
 Aidar Bekturov COM-19 for programming language 2 teacher Ruslan Isaev
+Student of Alatoo-International university
+
+If you have any question write my email aidar.bekturov@iaau.edu.kg
